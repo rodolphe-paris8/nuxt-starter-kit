@@ -1,0 +1,22 @@
+{
+  // Configuration TypeScript pour Nuxt 3
+  // Ce fichier est généré automatiquement par Nuxt
+  // Vous pouvez l'étendre pour ajouter vos propres règles
+
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    // Règles strictes pour plus de sécurité
+    "strict": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+
+    // Permet d'importer des JSON
+    "resolveJsonModule": true,
+
+    // Compatibilité ESM
+    "esModuleInterop": true,
+
+    // Mode module
+    "moduleResolution": "bundler"
+  }
+}
