@@ -11,8 +11,10 @@ export default defineNuxtConfig({
   // Variables d'environnement accessibles côté client (préfixe NUXT_PUBLIC_)
   runtimeConfig: {
     public: {
-      supabaseUrl: process.env.NUXT_PUBLIC_SUPABASE_URL,
-      supabaseKey: process.env.NUXT_PUBLIC_SUPABASE_ANON_KEY,
+      // Ces valeurs sont injectées automatiquement par Nuxt
+      // depuis les variables Vercel NUXT_PUBLIC_*
+      supabaseUrl: '',
+      supabaseAnonKey: ''
     }
   },
 
