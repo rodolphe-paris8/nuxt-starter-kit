@@ -1,14 +1,3 @@
-Oui. Voici **un README unique, condensé et cohérent**, qui fusionne **README + QUICKSTART + GUIDE_DÉPLOIEMENT + ARBORESCENCE** sans perte pédagogique, mais **sans redondance**.
-
-Objectif du document:
-
-* lisible pour un étudiant en 5 minutes
-* suffisant pour comprendre l’architecture
-* complet pour installer, utiliser et déployer
-* **un seul fichier à maintenir**
-
----
-
 # 🎨 Galerie Interactive – Projet pédagogique M1
 
 > Projet starter pour le cours de **Design d’Interfaces Interactives**
@@ -234,7 +223,7 @@ Chaque `git push` déclenche un redeploy.
 
 ---
 
-## 🎓 Notes pour les enseignants
+## 🎓 Remarques
 
 * Sécurité volontairement simplifiée
 * Authentification = extension idéale
@@ -247,23 +236,9 @@ Chaque `git push` déclenche un redeploy.
 
 Projet pédagogique
 Libre d’utilisation et de modification.
-
----
-
-## 👨‍🏫 Contact
-
 Master 1 – Design d’Interfaces Interactives
 Université Paris 8
-Contact enseignant: *à compléter*
+Enseignant: Rodolphe Richard
 
----
-
-**Bon code et bonne exploration 🚀**
-
-Si tu veux ensuite:
-
-* une version **ultra-courte pour étudiants**
-* un **README enseignants**
-* ou un **diagramme d’architecture**
 
 je peux te les générer à partir de celui-ci sans effort supplémentaire.
