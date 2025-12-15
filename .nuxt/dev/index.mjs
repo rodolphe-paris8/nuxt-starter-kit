@@ -649,8 +649,8 @@ const _inlineRuntimeConfig = {
     }
   },
   "public": {
-    "supabaseUrl": "https://mslktrdgbeepnpfsseob.supabase.co",
-    "supabaseKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1zbGt0cmRnYmVlcG5wZnNzZW9iIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjU2Mzg5MDMsImV4cCI6MjA4MTIxNDkwM30.vtXKAFRsq_Gr3-S0NT3-iLTgpeEUY-NcLj84zjO6X-s"
+    "supabaseUrl": "",
+    "supabaseAnonKey": ""
   }
 };
 const envOptions = {
