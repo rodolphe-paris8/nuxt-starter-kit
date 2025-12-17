@@ -240,5 +240,3 @@ Master 1 – Design d’Interfaces Interactives
 Université Paris 8
 Enseignant: Rodolphe Richard
 
-
-je peux te les générer à partir de celui-ci sans effort supplémentaire.
