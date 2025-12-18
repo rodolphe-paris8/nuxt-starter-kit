@@ -14,7 +14,7 @@ Galerie d’images interactive avec interface d’administration complète, con�
 * Manipuler une base de données PostgreSQL via Supabase
 * Gérer l’upload de fichiers (storage cloud)
 * Utiliser des variables d’environnement
-* Déployer une application en production (Vercel)
+* Déployer une application en production (Vercel)   
 
 ---
 
