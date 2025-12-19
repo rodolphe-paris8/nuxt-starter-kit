@@ -16,7 +16,7 @@
     <!-- En-tête de la page -->
     <header class="page-header">
       <div class="header-content">
-        <h1 class="main-title">Galerie Interactive</h1>
+        <h1 class="main-title">Galerie Interactive - COUCOU</h1>
         <p class="subtitle">
           Projet pédagogique M1 - Design d'interfaces interactives
         </p>
